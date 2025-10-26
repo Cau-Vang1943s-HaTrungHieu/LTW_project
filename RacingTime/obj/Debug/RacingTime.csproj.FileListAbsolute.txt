@@ -9,3 +9,4 @@ D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime
 D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\obj\Debug\RacingTime.exe
 D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\obj\Debug\RacingTime.pdb
 D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\obj\Debug\RacingTime.exe.config
+D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\obj\Debug\RacingTime.Menu.resources

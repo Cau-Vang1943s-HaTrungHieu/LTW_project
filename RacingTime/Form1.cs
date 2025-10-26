@@ -13,6 +13,7 @@ namespace RacingTime
 {
     public partial class Form1 : Form
     {
+        bool isPaused = false;
         int roadSpeed;
         int trafficSpeed;
         int playerSpeed = 12;
@@ -27,32 +28,58 @@ namespace RacingTime
         public Form1()
         {
             InitializeComponent();
-            resetGame();
+
+            // Show the start button 
+            btnStart.Visible = true;
+            btnStart.Enabled = true;
+
+            // Hide game-over elements
+            explosion.Visible = false;
+            award.Visible = false;
+
+            // Set initial score text
+            txtScore.Text = "Score: 0";
         }
 
         // Press
         private void keyisdown(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Left)
+            switch (e.KeyCode)
             {
-                goleft = true;
-            }
-            if (e.KeyCode == Keys.Right)
-            {
-                goright = true;
+                case Keys.Left:
+                    goleft = true;
+                    break;
+                case Keys.Right:
+                    goright = true;
+                    break;
+                case Keys.P:
+                    isPaused = !isPaused;
+                    gameTimer.Enabled = !isPaused;
+
+                    if (isPaused)
+                    {
+                        lblGameStatus.Text = "⏸ PAUSED";
+                        lblGameStatus.Visible = true;
+                    }
+                    else
+                    {
+                        lblGameStatus.Visible = false;
+                    }
+                    break;
             }
         }
 
         // Release
         private void keyisup(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.Left)
+            switch (e.KeyCode)
             {
-                goleft = false;
-            }
-            if (e.KeyCode == Keys.Right)
-            {
-                goright = false;
+                case Keys.Left:
+                    goleft = false;
+                    break;
+                case Keys.Right:
+                    goright = false;
+                    break;
             }
         }
 

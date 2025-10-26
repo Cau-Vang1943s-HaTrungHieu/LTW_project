@@ -40,6 +40,7 @@
             this.roadTrack2 = new System.Windows.Forms.PictureBox();
             this.roadTrack1 = new System.Windows.Forms.PictureBox();
             this.gameTimer = new System.Windows.Forms.Timer(this.components);
+            this.lblGameStatus = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.bot1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.award)).BeginInit();
@@ -53,6 +54,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Black;
+            this.panel1.Controls.Add(this.lblGameStatus);
             this.panel1.Controls.Add(this.bot1);
             this.panel1.Controls.Add(this.award);
             this.panel1.Controls.Add(this.explosion);
@@ -168,12 +170,25 @@
             this.gameTimer.Interval = 20;
             this.gameTimer.Tick += new System.EventHandler(this.gameTimerEvent);
             // 
+            // lblGameStatus
+            // 
+            this.lblGameStatus.AutoSize = true;
+            this.lblGameStatus.BackColor = System.Drawing.Color.Transparent;
+            this.lblGameStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblGameStatus.ForeColor = System.Drawing.Color.Yellow;
+            this.lblGameStatus.Location = new System.Drawing.Point(171, 194);
+            this.lblGameStatus.Name = "lblGameStatus";
+            this.lblGameStatus.Size = new System.Drawing.Size(0, 33);
+            this.lblGameStatus.TabIndex = 4;
+            this.lblGameStatus.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(499, 781);
             this.Controls.Add(this.panel1);
+            this.DoubleBuffered = true;
             this.Name = "Form1";
             this.Text = "Racing Game";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -205,6 +220,7 @@
         private System.Windows.Forms.PictureBox bot2;
         private System.Windows.Forms.PictureBox player;
         private System.Windows.Forms.Timer gameTimer;
+        private System.Windows.Forms.Label lblGameStatus;
     }
 }
 
