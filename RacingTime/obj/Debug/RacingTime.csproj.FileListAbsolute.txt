@@ -1,0 +1,11 @@
+D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\obj\Debug\RacingTime.csproj.AssemblyReference.cache
+D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\obj\Debug\RacingTime.Form1.resources
+D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\obj\Debug\RacingTime.Properties.Resources.resources
+D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\obj\Debug\RacingTime.csproj.GenerateResource.cache
+D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\obj\Debug\RacingTime.csproj.CoreCompileInputs.cache
+D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\bin\Debug\RacingTime.exe.config
+D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\bin\Debug\RacingTime.exe
+D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\bin\Debug\RacingTime.pdb
+D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\obj\Debug\RacingTime.exe
+D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\obj\Debug\RacingTime.pdb
+D:\HCMUE\Courses\N3_HKI\[WinForm] Lập trình trên Windows\Projects\RacingTime\RacingTime\obj\Debug\RacingTime.exe.config

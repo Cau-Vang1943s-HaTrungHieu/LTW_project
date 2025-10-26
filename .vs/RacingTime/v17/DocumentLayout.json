@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HCMUE\\Courses\\N3_HKI\\[WinForm] L\u1EADp tr\u00ECnh tr\u00EAn Windows\\Projects\\RacingTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60D6175E-A1FE-4494-8732-3D084056C72F}|RacingTime\\RacingTime.csproj|d:\\hcmue\\courses\\n3_hki\\[winform] l\u1EADp tr\u00ECnh tr\u00EAn windows\\projects\\racingtime\\racingtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D6175E-A1FE-4494-8732-3D084056C72F}|RacingTime\\RacingTime.csproj|solutionrelative:racingtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D6175E-A1FE-4494-8732-3D084056C72F}|RacingTime\\RacingTime.csproj|D:\\HCMUE\\Courses\\N3_HKI\\[WinForm] L\u1EADp tr\u00ECnh tr\u00EAn Windows\\Projects\\RacingTime\\racingtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60D6175E-A1FE-4494-8732-3D084056C72F}|RacingTime\\RacingTime.csproj|solutionrelative:racingtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\HCMUE\\Courses\\N3_HKI\\[WinForm] L\u1EADp tr\u00ECnh tr\u00EAn Windows\\Projects\\RacingTime\\RacingTime\\Form1.cs",
+              "RelativeDocumentMoniker": "RacingTime\\Form1.cs",
+              "ToolTip": "D:\\HCMUE\\Courses\\N3_HKI\\[WinForm] L\u1EADp tr\u00ECnh tr\u00EAn Windows\\Projects\\RacingTime\\RacingTime\\Form1.cs",
+              "RelativeToolTip": "RacingTime\\Form1.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAnwLwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T15:19:34.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\HCMUE\\Courses\\N3_HKI\\[WinForm] L\u1EADp tr\u00ECnh tr\u00EAn Windows\\Projects\\RacingTime\\RacingTime\\Form1.cs",
+              "RelativeDocumentMoniker": "RacingTime\\Form1.cs",
+              "ToolTip": "D:\\HCMUE\\Courses\\N3_HKI\\[WinForm] L\u1EADp tr\u00ECnh tr\u00EAn Windows\\Projects\\RacingTime\\RacingTime\\Form1.cs [Design]",
+              "RelativeToolTip": "RacingTime\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:07:27.024Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

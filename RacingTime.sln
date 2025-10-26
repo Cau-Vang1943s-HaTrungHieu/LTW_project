@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacingTime", "RacingTime\RacingTime.csproj", "{60D6175E-A1FE-4494-8732-3D084056C72F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D6175E-A1FE-4494-8732-3D084056C72F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D6175E-A1FE-4494-8732-3D084056C72F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D6175E-A1FE-4494-8732-3D084056C72F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D6175E-A1FE-4494-8732-3D084056C72F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {962913D0-5AFC-462A-99DE-ECD9E6D7AD0C}
+	EndGlobalSection
+EndGlobal
